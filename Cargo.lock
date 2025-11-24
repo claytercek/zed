@@ -18096,9 +18096,9 @@ dependencies = [
 
 [[package]]
 name = "tree-sitter-jsdoc"
-version = "0.23.2"
+version = "0.25.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "a3862dfcb1038fc5e7812d7df14190afdeb7e1415288fd5f51f58395f8cb0faf"
+checksum = "7a70da85d41e05dae5d323a4b76fa0955d16fa0394415cea2034de046a21ea6a"
 dependencies = [
  "cc",
  "tree-sitter-language",
